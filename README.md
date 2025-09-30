@@ -1,3 +1,21 @@
+This is my personal portfolio website, designed to highlight my skills, projects, and experience as a Software Engineering student and aspiring Full Stack Web Developer based in Toronto.
+
+The site includes:
+
+Home & Introduction – A short welcome and personal statement.
+
+About Me – My background, education, and the technologies I’m learning (HTML, CSS, JavaScript, React, Next.js).
+
+Services – An overview of what I can offer, including web design, web development, UI/UX design, and mobile app development.
+
+Projects (My Work) – A showcase of projects I’ve built, such as e-commerce, car rental, hotel booking, and design-focused applications.
+
+Contact Me – Ways to connect, including a contact form and links to my GitHub and LinkedIn.
+
+This portfolio reflects my ongoing growth in web development—learning, building, and applying real-world skills through hands-on projects.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
