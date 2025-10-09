@@ -78,9 +78,10 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'Apparel E-Commerce',
+        description: 'Full-Stack Application',
         bgImage: '/work-1.png',
+        url: "https://ecommerce-frontend-wrym.onrender.com",
     },
     {
         title: 'Geo based app',
