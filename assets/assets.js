@@ -84,7 +84,7 @@ export const workData = [
         url: "https://ecommerce-frontend-wrym.onrender.com",
     },
     {
-        title: 'Prescripto – Doctors Appointment',
+        title: 'Doctors Appointment',
         description: 'Full-Stack Application',
         bgImage: '/work-2.png',
         url: "https://prescripto-e27z.onrender.com",
